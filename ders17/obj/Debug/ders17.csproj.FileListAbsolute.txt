@@ -1,0 +1,6 @@
+/Users/alikeyvaz/RiderProjects/ders17/ders17/bin/Debug/ders17.exe
+/Users/alikeyvaz/RiderProjects/ders17/ders17/bin/Debug/ders17.pdb
+/Users/alikeyvaz/RiderProjects/ders17/ders17/obj/Debug/ders17.csproj.AssemblyReference.cache
+/Users/alikeyvaz/RiderProjects/ders17/ders17/obj/Debug/ders17.csproj.CoreCompileInputs.cache
+/Users/alikeyvaz/RiderProjects/ders17/ders17/obj/Debug/ders17.exe
+/Users/alikeyvaz/RiderProjects/ders17/ders17/obj/Debug/ders17.pdb
